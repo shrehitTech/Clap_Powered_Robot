@@ -1,8 +1,11 @@
 # Clap Robot
 
 ## Overview
-This project is an Arduino-based robotics system designed to move a robot by listening to claps autonomously.   
-I built this project to understand how sensors, motors, and control logic work together in real-world robotics applications.     
+This project is a clap-activated robot built with Arduino, a sound sensor, and a motor driver. The robot listens for loud claps and responds by moving forward or performing a pre-programmed action. 
+
+I built this project to explore sound sensing, digital input/output, and motor control, learning how sensors and microcontrollers can interact to create responsive autonomous systems.
+
+The robot can be tuned using the sensor’s sensitivity potentiometer to ignore background noise and respond reliably to hand claps, making it an interactive and fun way to practice real-world electronics and programming.
 
 ## Motivation
 I am interested in robotics and engineering. This project helped me improve my understanding of embedded systems, problem-solving, and hands-on design. 
